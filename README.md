@@ -1,5 +1,5 @@
-# DO NOT USE THIS SERVER IN A PRODUCTION CAPACITY # 
-** It has been preserved in this repository for research only **
+# DO NOT USE THIS SERVER IN A PRODUCTION CAPACITY
+It has been preserved in this repository for research only
 
              thttpd - tiny/turbo/throttling HTTP server
                     version 2.21b of 23apr2001
